@@ -1,6 +1,8 @@
 yapot
 =====
 
+[![Join the chat at https://gitter.im/thequbit/yapot](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thequbit/yapot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Yet Another PDF OCR Tool
 
 
